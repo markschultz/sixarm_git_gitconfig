@@ -1,3 +1,8 @@
+[difftool]
+    prompt = false
+[difftool "meld"]
+    cmd = meld "$LOCAL" "$REMOTE"
 [diff]
+  tool = meld
   renamelimit = 0
   renames = copy # makes the diff much shorter when moving or copying files

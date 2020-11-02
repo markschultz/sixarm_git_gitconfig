@@ -19,6 +19,6 @@
   path = gitconfig.d/user.txt
 
   # You may uncomment one of these for your specific system:
-  # path = gitconfig.d/specific-to-linux.txt
+  path = gitconfig.d/specific-to-linux.txt
   # path = gitconfig.d/specific-to-osx.txt
   # path = gitconfig.d/specific-to-windows.txt
